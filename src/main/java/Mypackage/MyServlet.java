@@ -11,7 +11,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Date;
 import java.util.Scanner;
-//this is a comment
+
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 
