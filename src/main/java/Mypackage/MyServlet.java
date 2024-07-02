@@ -44,7 +44,7 @@ public class MyServlet extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		//API Key
-		String apiKey = "2852e4cb02d498d6dbd2510ddf10792b";
+		String apiKey = "send your api key";
 		// Get the city from the form input
         String city = request.getParameter("city"); 
 
